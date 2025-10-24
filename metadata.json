@@ -1,0 +1,5 @@
+{
+  "name": "Data Anonymization Service",
+  "description": "A user interface for a service that anonymizes personal data in text according to GDPR and Polish law. It allows users to submit text, choose an anonymization strategy, and receive the processed, secure text along with an anonymization ID.",
+  "requestFramePermissions": []
+}
